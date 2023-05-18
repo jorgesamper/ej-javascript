@@ -24,6 +24,7 @@ console.log(invertString) // Resultado: "aloh"
 ## Problema 4: Encontrar el factorial de un número
 
 Escribe una función de JavaScript llamada factorial que tome un número entero positivo como parámetro y devuelva su factorial. El factorial de un número es el producto de todos los números enteros positivos menores o iguales a ese número. Por ejemplo, el factorial de 5 (escrito como 5!) es 5 _ 4 _ 3 _ 2 _ 1 = 120.
+
 // Ejemplo de uso:
 const valorFactorial = factorial(5)
 console.log(valorFactorial) // Resultado: 120
@@ -31,5 +32,6 @@ console.log(valorFactorial) // Resultado: 120
 ## Problema 5: Verificar si una cadena es un palíndromo
 
 Escribe una función de JavaScript llamada isPalindrome que tome una cadena como parámetro y devuelva true si la cadena es un palíndromo (se lee igual de adelante hacia atrás que de atrás hacia adelante) y false en caso contrario.
+
 // Ejemplo de uso:
 console.log(isPalindrome('civic')) // Resultado: true
